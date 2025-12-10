@@ -1,8 +1,6 @@
+## Bu proje Halka Arz Bilgilerinin ve Hesaplamaların bulunduğu bir web sitesidir
 
-
-# Bu proje Halka Arz Bilgilerinin ve Hesaplamaların bulunduğu bir web sitesidir
-
-React.js ile yapılmıştır.
+Adres : 
 https://oguzgk.github.io/Halka-Arz-Bilgilerim/
 
 
